@@ -1,0 +1,315 @@
+{
+   "name":"test",
+   "data":[{
+         "x": 0,
+         "y": 0,
+         "w": 1,
+         "h": 1,
+         "i": "01",
+         "type": "button",
+         "title": "按钮",
+         "name":"Default",
+         "props": {
+           "type":"default"
+         },
+         "validate":[
+           
+         ]
+     },
+  {
+         "x": 1,
+         "y": 0,
+         "w": 1,
+         "h": 1,
+         "i": "02",
+         "type": "button",
+         "title": "按钮",
+         "name":"Primary",
+         "props": {
+           "type":"primary"
+         },
+         "validate":[
+           
+         ]
+     },
+     {
+         "x": 2,
+         "y": 0,
+         "w": 1,
+         "h": 1,
+         "i": "03",
+         "type": "button",
+         "title": "按钮",
+         "name":"Dashed",
+         "props": {
+           "type":"dashed"
+         },
+         "validate":[
+           
+         ]
+     },{
+         "x": 3,
+         "y": 0,
+         "w": 1,
+         "h": 1,
+         "i": "04",
+         "type": "button",
+         "title": "按钮",
+         "name":"Text",
+         "props": {
+           "type":"text"
+         },
+         "validate":[
+           
+         ]
+     },{
+         "x": 0,
+         "y": 1,
+         "w": 1,
+         "h": 1,
+         "i": "05",
+         "type": "button",
+         "title": "按钮",
+         "name":"Info",
+         "props": {
+           "type":"info"
+         },
+         "validate":[
+           
+         ]
+     },{
+         "x": 1,
+         "y": 1,
+         "w": 1,
+         "h": 1,
+         "i": "06",
+         "type": "button",
+         "title": "按钮",
+         "name":"Success",
+         "props": {
+           "type":"success"
+         },
+         "validate":[
+           
+         ]
+     },{
+         "x": 2,
+         "y": 1,
+         "w": 1,
+         "h": 1,
+         "i": "07",
+         "type": "button",
+         "title": "按钮",
+         "name":"Warning",
+         "props": {
+           "type":"warning"
+         },
+         "validate":[
+           
+         ]
+     },{
+         "x": 3,
+         "y": 1,
+         "w": 1,
+         "h": 1,
+         "i": "08",
+         "type": "button",
+         "title": "按钮",
+         "name":"Error",
+         "props": {
+           "type":"error"
+         },
+         "validate":[
+           
+         ]
+     },{
+         "x": 0,
+         "y": 2,
+         "w": 1,
+         "h": 1,
+         "i": "09",
+         "type": "button",
+         "title": "按钮",
+         "name":"Info",
+         "props": {
+           "type":"info",
+           "ghost":true
+         },
+         "validate":[
+           
+         ]
+     },{
+         "x": 1,
+         "y": 2,
+         "w": 1,
+         "h": 1,
+         "i": "010",
+         "type": "button",
+         "title": "按钮",
+         "name":"Success",
+         "props": {
+           "type":"success",
+           "ghost":true
+         },
+         "validate":[
+           
+         ]
+     },{
+         "x": 2,
+         "y": 2,
+         "w": 1,
+         "h": 1,
+         "i": "011",
+         "type": "button",
+         "title": "按钮",
+         "name":"Warning",
+         "props": {
+           "type":"warning",
+           "ghost":true
+         },
+         "validate":[
+           
+         ]
+     },{
+         "x": 3,
+         "y": 2,
+         "w": 1,
+         "h": 1,
+         "i": "012",
+         "type": "button",
+         "title": "按钮",
+         "name":"Error",
+         "props": {
+           "type":"error",
+           "ghost":true
+         },
+         "validate":[
+           
+         ]
+     },{
+         "x": 0,
+         "y": 3,
+         "w": 1,
+         "h": 1,
+         "i": "013",
+         "type": "button",
+         "title": "按钮",
+         "name":"Search",
+         "props": {
+           "type":"primary",
+           "icon":"ios-search"
+         },
+         "validate":[
+           
+         ]
+     },{
+         "x": 1,
+         "y": 3,
+         "w": 1,
+         "h": 1,
+         "i": "014",
+         "type": "button",
+         "title": "按钮",
+         "name":"Circle",
+         "props": {
+           "type":"primary",
+           "shape":"circle"
+         },
+         "validate":[
+           
+         ]
+     },{
+         "x": 2,
+         "y": 3,
+         "w": 1,
+         "h": 1,
+         "i": "015",
+         "type": "button",
+         "title": "按钮",
+         "name":"Primary(Disabled)",
+         "props": {
+           "type":"primary",
+           "disabled":true
+         },
+         "validate":[
+           
+         ]
+     },{
+         "x": 3,
+         "y": 3,
+         "w": 1,
+         "h": 1,
+         "i": "016",
+         "type": "button",
+         "title": "按钮",
+         "name":"Loading...",
+         "props": {
+           "type":"primary",
+           "loading":true
+         },
+         "validate":[
+           
+         ]
+     },{
+         "x": 0,
+         "y": 4,
+         "w": 2,
+         "h": 1,
+         "i": "017",
+         "type": "input",
+         "props": {
+           "type":"text",
+           "placeholder":"最简单的输入框"
+         }
+     },{
+         "x": 2,
+         "y": 4,
+         "w": 2,
+         "h": 1,
+         "i": "018",
+         "type": "input",
+         "value":"可清空的输入框",
+         "props": {
+           "type":"text",
+           "placeholder":"可清空的输入框",
+           "clearable":true
+         }
+     },{
+         "x": 0,
+         "y": 5,
+         "w": 2,
+         "h": 1,
+         "i": "019",
+         "type": "input",
+         "props": {
+           "type":"text",
+           "placeholder":"带图标的输入框",
+           "suffix":"ios-search"
+         }
+     },{
+         "x": 2,
+         "y": 5,
+         "w": 2,
+         "h": 4,
+         "i": "020",
+         "type": "input",
+         "props": {
+           "type":"textarea",
+           "placeholder":"文本框",
+           "rows":4
+         }
+     },{
+         "x": 0,
+         "y": 6,
+         "w": 2,
+         "h": 4,
+         "i": "020",
+         "type": "input",
+         "props": {
+           "type":"text",
+           "prepend":"www.",
+           "append":".com"
+         }
+     }
+  ]
+}
