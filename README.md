@@ -9,5 +9,7 @@
 
 目前项目处于起步阶段，控件只有 button 和 input
 
+会持续更新！！
+
 ![效果演示](https://github.com/HinduLotus/webform/blob/master/static/%E6%BC%94%E7%A4%BA.png)
 
